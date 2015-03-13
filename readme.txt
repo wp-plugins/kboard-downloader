@@ -1,14 +1,14 @@
 === KBoard 게시판 설치도구 ===
-Plugin URI: http://www.cosmosfarm.com/products/kboard
-Author Name : Cosmosfarm
-Author URL : http://www.cosmosfarm.com/
-Stable tag: 1.0
+Contributors: Cosmosfarm
+Donate link: http://www.cosmosfarm.com/products/kboard
 Tags: kboard, 케이보드, board, 게시판, 플러그인, 한국게시판, 한국형게시판, 소셜댓글, social
 Requires at least: 3.0.1
 Tested up to: 4.1
-License: GPLv2 or later
+Stable tag: 1.0
+License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+KBoard는 다년간의 업데이트로 안정성이 뛰어난 워드프레스 게시판입니다.
 
 == Description ==
 
