@@ -1,6 +1,6 @@
 === KBoard 게시판 설치도구 ===
 Plugin URI: http://www.cosmosfarm.com/products/kboard
-Author Name : 코스모스팜 - Cosmosfarm
+Author Name : Cosmosfarm
 Author URL : http://www.cosmosfarm.com/
 Stable tag: 1.0
 Tags: kboard, 케이보드, board, 게시판, 플러그인, 한국게시판, 한국형게시판, 소셜댓글, social
