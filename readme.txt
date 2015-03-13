@@ -1,5 +1,5 @@
 === KBoard 게시판 설치도구 ===
-Contributors: Cosmosfarm
+Contributors: 코스모스팜 - Cosmosfarm
 Donate link: http://www.cosmosfarm.com/products/kboard
 Tags: kboard, 케이보드, board, 게시판, 플러그인, 한국게시판, 한국형게시판, 소셜댓글, social
 Requires at least: 3.0.1
@@ -21,6 +21,8 @@ KBoard는 다년간의 업데이트로 안정성이 뛰어난 워드프레스 �
 코스모스팜 홈페이지 : http://www.cosmosfarm.com/
 
 KBoard 다운로드 : http://www.cosmosfarm.com/products/kboard
+
+KBoard 데모 : http://www.cosmosfarm.com/demo/
 
 게시판 스킨 : http://www.cosmosfarm.com/wpstore/category/kboard
 
