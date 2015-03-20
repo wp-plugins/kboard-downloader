@@ -1,7 +1,7 @@
 === KBoard 게시판 설치도구 ===
 Contributors: 코스모스팜 - Cosmosfarm
 Donate link: http://www.cosmosfarm.com/products/kboard
-Tags: kboard, 케이보드, board, 게시판, 플러그인, 한국게시판, 한국형게시판, 소셜댓글, social
+Tags: 케이보드, kboard, 게시판, board, 플러그인, 한국게시판, 한국형게시판, 소셜댓글, social
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
