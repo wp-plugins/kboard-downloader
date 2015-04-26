@@ -53,8 +53,8 @@ final class KDCore {
 	}
 	
 	public function getVerstion(){
-		$host = 'cosmosfarm.com';
-		$url = 'http://www.cosmosfarm.com/wpstore/kboard/version';
+		$host = 'www.cosmosfarm.com';
+		$url = '/wpstore/kboard/version';
 		$fp = @fsockopen($host, 80, $errno, $errstr, 3);
 		if($fp){
 			$output = '';
