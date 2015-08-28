@@ -3,7 +3,7 @@
 	<h2>KBoard 게시판 설치도구</h2>
 	<h3>KBoard는 다년간의 업데이트로 안정성이 뛰어난 워드프레스 게시판입니다.</h3>
 	<p>
-	<form method="get" action="">
+	<form method="get" action="" onsubmit="return kboard_downloader_alert()">
 		<p>
 			<input type="hidden" name="page" value="kboard_downloader_main">
 			<input type="hidden" name="action" value="kboard_downloader_execute">
@@ -15,7 +15,7 @@
 	</p>
 	
 	<p>
-	<form method="get" action="">
+	<form method="get" action="" onsubmit="return kboard_downloader_alert()">
 		<p>
 			<input type="hidden" name="page" value="kboard_downloader_main">
 			<input type="hidden" name="action" value="kboard_downloader_execute">
@@ -33,5 +33,12 @@
 	<p>
 		<a href="http://www.cosmosfarm.com/products/kboard" onclick="window.open(this.href);return false;">코스모스팜 KBoard 홈페이지</a>
 	</p>
+	
+	<iframe src="http://www.cosmosfarm.com/welcome/kboard_ads" frameborder="0" scrolling="no" style="margin-top:20px;width:320px;height:100px;border:none;"></iframe>
 </div>
 <div class="clear"></div>
+<script>
+function kboard_downloader_alert(){
+	return confirm('KBoard 플러그인을 백업하세요. 최신 파일로 교체되며 수정된 파일이 있다면 잃게됩니다. 계속 할까요?');
+}
+</script>

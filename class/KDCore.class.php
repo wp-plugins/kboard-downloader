@@ -12,7 +12,7 @@ final class KDCore {
 	}
 	
 	public function addAdminMenu(){
-		$position = 50.23456;
+		$position = 12345;
 		add_menu_page('KBoard 게시판 설치도구', 'KBoard 설치도구', 'administrator', 'kboard_downloader_main', array($this, 'screenMain'), plugins_url('kboard-downloader/images/icon.png'), $position);
 		add_submenu_page('kboard_downloader_main', 'KBoard 게시판 설치도구', '설치도구', 'administrator', 'kboard_downloader_main');
 	}
