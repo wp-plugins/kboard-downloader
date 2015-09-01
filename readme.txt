@@ -21,11 +21,11 @@ KBoard는 다년간의 업데이트로 안정성이 뛰어난 워드프레스 �
 * [게시판 스킨](http://www.cosmosfarm.com/wpstore/category/kboard)
 * [사용자 커뮤니티](http://www.cosmosfarm.com/threads)
 
+워드프레스 게시판 케이보드 입니다.
+
 다양한 스킨이 준비되어 있으며, 문제 발생시 커뮤니티에서 즉각적인 해결책을 찾을 수 있습니다.
 
 게시판 설정에서 소셜댓글 플러그인을 활성화 할 수 있습니다.
-
-워드프레스 게시판 케이보드 입니다.
 
 
 == Installation ==
