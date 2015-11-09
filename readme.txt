@@ -3,8 +3,8 @@ Contributors: 코스모스팜 - Cosmosfarm
 Donate link: http://www.cosmosfarm.com/products/kboard
 Tags: 케이보드, kboard, 게시판, board, 플러그인, 한국게시판, 한국형게시판, 소셜댓글, social
 Requires at least: 3.0.1
-Tested up to: 4.3
-Stable tag: 1.2
+Tested up to: 4.3.1
+Stable tag: 1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,6 +56,9 @@ KBoard는 다년간의 업데이트로 안정성이 뛰어난 워드프레스 �
 
 
 == Changelog ==
+
+= 1.3 =
+* 버그 수정
 
 = 1.2 =
 * 버그 수정

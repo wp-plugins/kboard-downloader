@@ -58,7 +58,7 @@ final class KDCore {
 		$fp = @fsockopen($host, 80, $errno, $errstr, 3);
 		if($fp){
 			$output = '';
-			fputs($fp, "GET ".$url." HTTP/1.0\r\n"."Host: $host\r\n"."Referer: ".$_SERVER['HTTP_HOST']."\r\n"."\r\n");
+			fwrite($fp, "GET {$url} HTTP/1.0\r\n"."Host: {$host}\r\n"."Referer: {$_SERVER['HTTP_HOST']}\r\n"."\r\n");
 			while(!feof($fp)){
 				$output .= fgets($fp, 1024);
 			}
